@@ -1,0 +1,31 @@
+{
+  "name": "gameplanerdb-latinos",
+  "version": "0.1.0",
+  "description": "DB for Game Planner for latinos munich",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cequinteroar/gameplanerDB-latinos.git"
+  },
+  "keywords": [
+    "footbal",
+    "gameplanner",
+    "latinos",
+    "munich"
+  ],
+  "author": "Cesar Quintero Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cequinteroar/gameplanerDB-latinos/issues"
+  },
+  "homepage": "https://github.com/cequinteroar/gameplanerDB-latinos#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
